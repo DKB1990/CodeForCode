@@ -30,5 +30,5 @@ public int DeepRootCount(int count, int number)
 public static void Main()
 {
     FindDeepRoot (20);
-    //output: 3 (16 has 2)
+    // OUTPUT: 3 (16 has 2 square roots; 4X4, 2X2)
 }
